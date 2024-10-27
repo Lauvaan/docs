@@ -114,7 +114,7 @@ Make sure you have our latest [SimBrief Profile](simbrief.md#simbrief-airframe)
     The A380X, and the WV003 weight variant that we modeled, can hold up to 259471kg of fuel, but this would cause the MTOW to be exceeded. For this reason in the EFB we limit the use of the slider to a maximum of 220000 kg of fuel. You can still enter a larger value manually in the input box, if you would like to.
 
 - Max Fuel Capacity: 259471 kg (572035 lb)
-    !!! Note "Practically, it's only realistic to load a maximum of 220000 kg of fuel, as otherwise the take of weight would be above the MTOW"
+!!! Note "Practically, it's only realistic to load a maximum of 220000 kg of fuel, as otherwise the take of weight would be above the MTOW"
 - Fuel tanks: 11
     - 2x Outer Tanks: 8272 kg (18236 lb) each
     - 2x Middle Tanks: 29169 kg (64306 lb) each
